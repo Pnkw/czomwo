@@ -6,4 +6,4 @@ Founding Members:
 - Simon Wolff (simon.wolff@whu.edu)
 
 Additional Members:
-- Kai Künne
+- Kai Künne (kai.künne@whu.edu)
